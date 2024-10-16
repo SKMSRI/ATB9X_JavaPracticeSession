@@ -7,7 +7,10 @@ public class lab_15oct_03 {
         int b =35;
         int c= 55;
 
-        System.out.println();
+        // Using ternary operator to find the largest number
+        int largest = (a >= b && a >= c) ? a : (b >= c ? b : c);
+
+        System.out.println("The largest number is: " + largest);
 
     }
 }
