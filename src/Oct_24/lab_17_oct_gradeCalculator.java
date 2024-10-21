@@ -22,13 +22,12 @@ public class lab_17_oct_gradeCalculator {
         {
             System.out.println("Your Grade is -" + 'B');
         }
-        //else if (Score >= 70 && Score <= 79) ;
-        {
-            System.out.println("Your Grade is -"+ 'C');
+       // else if (Score >= 70 && Score <= 79){
+            //System.out.println("Your Grade is -"+ 'C');
         }
    }
 
-    }
+   // }
 
 
 
