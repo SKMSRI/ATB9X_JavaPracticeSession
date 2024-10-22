@@ -1,7 +1,5 @@
-package Oct_24;
+package Oct_24.ex_17Oct_ifelsestmnt;
 
-import javax.xml.transform.Source;
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class lab_17_oct_Practice_tringle {

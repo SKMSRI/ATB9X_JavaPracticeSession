@@ -1,6 +1,5 @@
-package Oct_24;
+package Oct_24.ex_16Oct_Userinputs;
 //Take a user input - Name, Age and Salary and print them in the end.
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class lab_16Oct_01 {

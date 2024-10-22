@@ -1,4 +1,4 @@
-package Oct_24;
+package Oct_24.ex_16Oct_Userinputs;
 //Take a user input 2 numbers from the arguments and calculate the maximum in between with ternary operator.
 public class lab_16Oct_02 {
 

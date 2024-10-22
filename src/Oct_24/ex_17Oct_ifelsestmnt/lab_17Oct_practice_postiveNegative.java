@@ -1,4 +1,4 @@
-package Oct_24;
+package Oct_24.ex_17Oct_ifelsestmnt;
 
 import java.util.Scanner;
 

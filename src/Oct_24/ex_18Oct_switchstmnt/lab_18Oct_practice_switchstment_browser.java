@@ -1,6 +1,5 @@
-package Oct_24;
+package Oct_24.ex_18Oct_switchstmnt;
 
-import java.text.BreakIterator;
 import java.util.Scanner;
 
 public class lab_18Oct_practice_switchstment_browser {

@@ -1,4 +1,4 @@
-package Oct_24;
+package Oct_24.ex_18Oct_switchstmnt;
 
 import java.util.Scanner;
 
