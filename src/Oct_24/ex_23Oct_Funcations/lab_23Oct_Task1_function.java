@@ -1,5 +1,6 @@
 package Oct_24.ex_23Oct_Funcations;
-
+//Create a Function of Sub, Sum, Mul and Div with parameter, a, b (take the parameter from the User)
+// 3 → user input &   4 - user input
 import java.util.Scanner;
 
 public class lab_23Oct_Task1_function {
