@@ -1,5 +1,5 @@
 package NOV_24.ex_06Nov_constructors;
-
+//Parametrized construcotr
   // Define the Dog class
     public class Dog {
         // Private instance variables
