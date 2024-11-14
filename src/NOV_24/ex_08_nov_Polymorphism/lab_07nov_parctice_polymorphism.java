@@ -5,3 +5,14 @@ public class lab_07nov_parctice_polymorphism {
 
     }
 }
+/*
+1. Can we achieve method overloading by changing return type of mentod only?
+ans: not possible beacuse of ambiguity error
+2.cna we overload main() method?
+Yes we can overload main method
+3. Can we uuse automatic promotion in metod overloading?
+Yes, we can
+
+
+
+ */
