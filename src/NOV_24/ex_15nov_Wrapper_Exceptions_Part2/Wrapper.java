@@ -16,3 +16,5 @@ public class Wrapper {
         // Why Java is not pure OOPs? - Becoz -> primitive data types.
 
 
+    }
+}
