@@ -1,5 +1,5 @@
 package NOV_24.ex_18Nov_Exceptions_Part2;
-
+/*
 public class Exceptions_finallykeyword {
     public static void main(String[] args) {
         Scanner sc = null;
@@ -16,4 +16,3 @@ public class Exceptions_finallykeyword {
         }
 
     }
-}
