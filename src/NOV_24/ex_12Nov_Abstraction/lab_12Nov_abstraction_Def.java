@@ -11,6 +11,6 @@ Abstract method:
 can only be used in an abstract class, and it does not have a body.
 The body is provided by the subclass (inherited from).
 */
-public class lab_12Nov_abstraction {
+public class lab_12Nov_abstraction_Def {
 
 }
